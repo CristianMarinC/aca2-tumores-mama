@@ -1,0 +1,5 @@
+streamlit>=1.50
+keras>=3.4
+jax[cpu]>=0.4.30
+numpy>=1.26
+pandas>=2.0
